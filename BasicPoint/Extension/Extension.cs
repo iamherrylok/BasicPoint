@@ -1,5 +1,9 @@
 public static class ExtensionService
 {
+    static ExtensionService()
+    {
+
+    }
     public static int ToInt(this string str)
     {
         int init = 0;
