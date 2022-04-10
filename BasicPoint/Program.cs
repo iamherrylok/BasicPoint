@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿string str = "10";
+int result = str.ToInt();
+System.Console.WriteLine(result);

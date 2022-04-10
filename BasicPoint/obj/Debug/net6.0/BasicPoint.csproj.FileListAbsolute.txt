@@ -1,0 +1,15 @@
+/Users/iamherrylok/CodingSource/Git/BasicPoint/BasicPoint/bin/Debug/net6.0/BasicPoint
+/Users/iamherrylok/CodingSource/Git/BasicPoint/BasicPoint/bin/Debug/net6.0/BasicPoint.deps.json
+/Users/iamherrylok/CodingSource/Git/BasicPoint/BasicPoint/bin/Debug/net6.0/BasicPoint.runtimeconfig.json
+/Users/iamherrylok/CodingSource/Git/BasicPoint/BasicPoint/bin/Debug/net6.0/BasicPoint.dll
+/Users/iamherrylok/CodingSource/Git/BasicPoint/BasicPoint/bin/Debug/net6.0/ref/BasicPoint.dll
+/Users/iamherrylok/CodingSource/Git/BasicPoint/BasicPoint/bin/Debug/net6.0/BasicPoint.pdb
+/Users/iamherrylok/CodingSource/Git/BasicPoint/BasicPoint/obj/Debug/net6.0/BasicPoint.csproj.AssemblyReference.cache
+/Users/iamherrylok/CodingSource/Git/BasicPoint/BasicPoint/obj/Debug/net6.0/BasicPoint.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iamherrylok/CodingSource/Git/BasicPoint/BasicPoint/obj/Debug/net6.0/BasicPoint.AssemblyInfoInputs.cache
+/Users/iamherrylok/CodingSource/Git/BasicPoint/BasicPoint/obj/Debug/net6.0/BasicPoint.AssemblyInfo.cs
+/Users/iamherrylok/CodingSource/Git/BasicPoint/BasicPoint/obj/Debug/net6.0/BasicPoint.csproj.CoreCompileInputs.cache
+/Users/iamherrylok/CodingSource/Git/BasicPoint/BasicPoint/obj/Debug/net6.0/BasicPoint.dll
+/Users/iamherrylok/CodingSource/Git/BasicPoint/BasicPoint/obj/Debug/net6.0/ref/BasicPoint.dll
+/Users/iamherrylok/CodingSource/Git/BasicPoint/BasicPoint/obj/Debug/net6.0/BasicPoint.pdb
+/Users/iamherrylok/CodingSource/Git/BasicPoint/BasicPoint/obj/Debug/net6.0/BasicPoint.genruntimeconfig.cache
