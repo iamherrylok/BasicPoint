@@ -1,6 +1,6 @@
-public static class ExtensionService
+public static class StringExtension
 {
-    static ExtensionService()
+    static StringExtension()
     {
 
     }
@@ -32,4 +32,18 @@ public static class ExtensionService
         return init;
     }
 
+    public static DateTime ToDateTime(string str, string timeFormat)
+    {
+        DateTime dateTime = DateTime.MinValue;
+        try
+        {
+            dateTime = DateTime.ParseExact(str, timeFormat, System.Globalization.CultureInfo.CurrentCulture);
+        }
+        catch (System.Exception)
+        {
+
+        }
+
+        return dateTime;
+    }
 }
